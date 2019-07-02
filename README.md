@@ -1,2 +1,2 @@
 # luisotavioosi.github.io
-Projetos de sites
+Aluno do curso de ciência da computação - UESPI
